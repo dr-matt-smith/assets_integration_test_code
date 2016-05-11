@@ -1,0 +1,1 @@
+# assets_integration_test_code
